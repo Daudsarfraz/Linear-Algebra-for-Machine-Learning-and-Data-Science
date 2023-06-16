@@ -26,8 +26,8 @@ To benefit from this course, you should have a basic understanding of mathematic
 
 To get started with this course, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/linear-algebra-for-ml-ds.git`.
-2. Navigate to the repository's directory: `cd linear-algebra-for-ml-ds`.
+1. Clone this repository to your local machine using `https://github.com/Daudsarfraz/Linear-Algebra-for-Machine-Learning-and-Data-Science.git`.
+2. Navigate to the repository's directory: `cd Linear-Algebra-for-Machine-Learning-and-Data-Science`.
 3. Access the slides, code examples, and homework assignments in their respective directories.
 
 ## Contributing
